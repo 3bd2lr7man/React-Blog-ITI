@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "title": "Yoga relaxes you, to help you sleep better.",
+      "description": "Research shows that a consistent bedtime yoga routine can help you get in the right mindset and prepare your body to fall asleep and stay asleep.  Try It: Legs-Up-the-Wall Pose Sit with your left side against a wall, then gently turn right and lift your legs up to rest against the wall, keeping your back on the floor and your sitting bones close to the wall. You can remain in this position for 5 to 15 minutes. ",
+      "image": "uploads/asssd.jpg",
+      "userId": "1",
+      "firstName": "abdo",
+      "id": 1
+    },
+    {
+      "title": "Yoga improves strength, balance and flexibility.",
+      "description": "Slow movements and deep breathing increase blood flow and warm up muscles, while holding a pose can build strength.  Try it: Tree Pose Balance on one foot, while holding the other foot to your calf or above the knee (but never on the knee) at a right angle. Try to focus on one spot in front of you, while you balance for one minute. ",
+      "image": "uploads/aaeed.jpg",
+      "userId": "1",
+      "firstName": "abdo",
+      "id": 2
+    },
+    {
+      "title": "Tips for meditating",
+      "description": "1. Start by meditating for 1 minute You can do anything for 1 minute. The next day, add another minute, then another…Though it may seem otherwise, the truth is, you CAN be still. It’s just that your mind does not want to be present, so it makes up every single excuse possible to make you feel like you can’t do it:  “I have too much to do.” “This is a waste of time when I could be doing something.”   By focusing your attention on something other than how much you don’t want to sit and be still, the stillness gradually arises within your attention. If you are just starting out and really, truly cannot sit still, try a walking meditation instead.   Try it now!",
+      "image": "uploads/aaas.jpg",
+      "userId": "1",
+      "firstName": "abdo",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "abdo@gmail.com",
+      "password": "$2a$10$a9GheQc1jxFiRDowipYGbejImbJs2Iee.OPhpBBNxEyABViM6PalW",
+      "firstName": "abdo",
+      "surName": "dyaa",
+      "id": 1
+    }
+  ]
+}
